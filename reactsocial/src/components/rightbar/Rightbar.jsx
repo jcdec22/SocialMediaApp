@@ -18,42 +18,42 @@ export default function Rightbar(){
                             <img className="rightbarProfileImg" src="assets/hockeyplayer1.jpg" alt=""/>
                             <span className="rightbarOnline"></span>
                         </div>
-                        <span className="rightbarUsername">Wendy Evans</span>
+                        <span className="rightbarUsername">Rebecca Lidge</span>
                     </li>
                     <li className="rightbarFriend">
                         <div className="rightbarProfileImgContainer">
                             <img className="rightbarProfileImg" src="assets/hockeyplayer1.jpg" alt=""/>
                             <span className="rightbarOnline"></span>
                         </div>
-                        <span className="rightbarUsername">Wendy Evans</span>
+                        <span className="rightbarUsername">Rebecca Lidge</span>
                     </li>
                     <li className="rightbarFriend">
                         <div className="rightbarProfileImgContainer">
                             <img className="rightbarProfileImg" src="assets/hockeyplayer1.jpg" alt=""/>
                             <span className="rightbarOnline"></span>
                         </div>
-                        <span className="rightbarUsername">Wendy Evans</span>
+                        <span className="rightbarUsername">Rebecca Lidge</span>
                     </li>
                     <li className="rightbarFriend">
                         <div className="rightbarProfileImgContainer">
                             <img className="rightbarProfileImg" src="assets/hockeyplayer1.jpg" alt=""/>
                             <span className="rightbarOnline"></span>
                         </div>
-                        <span className="rightbarUsername">Wendy Evans</span>
+                        <span className="rightbarUsername">Rebecca Lidge</span>
                     </li>
                     <li className="rightbarFriend">
                         <div className="rightbarProfileImgContainer">
                             <img className="rightbarProfileImg" src="assets/hockeyplayer1.jpg" alt=""/>
                             <span className="rightbarOnline"></span>
                         </div>
-                        <span className="rightbarUsername">Wendy Evans</span>
+                        <span className="rightbarUsername">Rebecca Lidge</span>
                     </li>
                     <li className="rightbarFriend">
                         <div className="rightbarProfileImgContainer">
                             <img className="rightbarProfileImg" src="assets/hockeyplayer1.jpg" alt=""/>
                             <span className="rightbarOnline"></span>
                         </div>
-                        <span className="rightbarUsername">Wendy Evans</span>
+                        <span className="rightbarUsername">Rebecca Lidge</span>
                     </li>
                 </ul>
             </div>
